@@ -1,5 +1,5 @@
 # Quick-Terminal
-Quick Terminal and tools related to it
+Quick Terminal
 
 ![quick](https://user-images.githubusercontent.com/29865797/28218981-fec36f6e-68c2-11e7-8f04-9f93c84adf7a.jpg)
 
