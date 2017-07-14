@@ -8,6 +8,8 @@ Quick terminal is a terminal emulator written with Python. The program comes wit
 
 This version of the Quick Terminal is heavily integrated with PostX Gnu/Linux tools & development. See Quick Terminal(generic) repository for non-integrated version.
 
+Current Quick Terminal functionalities include right-click menu, Bluetooth connectivity and integration with many PostX Gnu/Linux tools.
+
 Dependencies:
 
 The list below should be enough:
